@@ -2,6 +2,7 @@
 title: "12: Unser kleiner Mini-Hit"
 bpm: 128
 hq: "https://kalkig.de/bfb-hit"
+release: "https://on.soundcloud.com/VHldIjMC99Snras3lv"
 ---
 Alles zusammen: unser kleiner Mini-Hit. Alles hat einen **Aufbau**, einzelne Abschnitte mit eigener Rolle. Dieser Song hier hat 22 Takte:
 
