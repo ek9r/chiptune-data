@@ -17,6 +17,8 @@ Im Refrain kippt die zweite Hälfte nach Fm. Alle Abschnitte sind ein Vielfaches
 
 **Mischtipp:** Der Song hat sein eigenes Tempo und passt nicht zu den beiden anderen Songs in diesem Album. Lade ihn doch in **beide Decks** und starte B auf Takt 9 von A, am besten mit **Auto**. So entsteht ein richtig schöner Kanon: Bs Intro liegt unter As Strophe, Bs Strophe unter As Refrain und so weiter. Nimm bei B den Tief-Regler raus, damit sich die Bässe nicht reiben.
 
+Wer Hilfe möchte: Die Session [Kanon](../kanon/) hat alles schon eingestellt. Ein Klick lädt beide Decks, der Rest ist Zuhören. ;-)
+
 <!-- track: bass -->
 ---
 instrument: triangle

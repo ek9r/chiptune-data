@@ -25,6 +25,7 @@ Ein neuer Song von hier erscheint dort also nicht sofort.
 | `kalkig/`                | Einzelne Songs („Projekt 0“, „Projekt 1“ (Layer))                          |
 | `kalkig/beat-fuer-beat/` | Album zum Mitmachen: Schritt für Schritt, jeder Song fügt eine Sache hinzu |
 | `kalkig/mixbausteine/`   | Album mit kurzen Loops zum Spielen mit dem Mixer                           |
+| `kalkig/studio/`         | Album mit Demo-„Songs“ zum Auflegen, wie z.B. in der Mixer-Session „Kanon“ |
 
 Alben sind Unterordner.  
  Die optionale Datei `_album.md` darin legt Informationen wie Titel und Künstler fest sowie eine Beschreibung und Schlagworte ("Tags").

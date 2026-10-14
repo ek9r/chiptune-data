@@ -18,4 +18,4 @@ Beide laufen mit 128 BPM in E-Moll.
 
 Probiere es auch andersherum, mit B zuerst. Dann brauchst du einen anderen Einstiegspunkt, weil der Breakdown von B früher kommt.
 
-**Song 03 „Ewigkeit“** als Bonus läuft mit 81 BPM in c-Moll und passt nicht zu den beiden anderen Songs. Lade ihn in beide Decks als Kanon und starte B auf Takt 9 von A: Jeder Abschnitt liegt unter dem nächsten.
+**Song 03 „Ewigkeit“** als Bonus läuft mit 81 BPM in c-Moll und passt nicht zu den beiden anderen Songs. Lade ihn in beide Decks als Kanon und starte B auf Takt 9 von A: Jeder Abschnitt liegt unter dem nächsten. - Hilfe: Die Session [Kanon](kanon/) hat alles schon eingestellt.
