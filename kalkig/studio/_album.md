@@ -4,7 +4,7 @@ artist: Kalkie
 tags: [lernen]
 ---
 Fertig produzierte „Songs“ direkt zum Auflegen im Mixer, im Gegensatz zu den kurzen Schleifen des Bausteine-Albums.  
-Jeder Song hat Intro und Outro nur mit Kick und Hi-Hat, einen Breakdown und einen Drop. Alle Abschnitte sind ein Vielfaches von 8 Takten lang.
+Die Songs 01 und 02 haben Intro und Outro nur mit Kick und Hi-Hat, einen Breakdown und einen Drop. Song 03 ist eine ruhige Ballade mit eigenem Tempo. Alle Abschnitte sind ein Vielfaches von 8 Takten lang.
 
 **So mischst du die Songs:** 
 Lade *01: Nachtfahrt* in Deck A und *02: Gegenlicht* in Deck B. 
@@ -17,3 +17,5 @@ Beide laufen mit 128 BPM in E-Moll.
 5. Auf Takt 57 von A (also wieder Takt 1) beginnt Bs Drop. Ziehe den Crossfader ganz auf B. A läuft von vorn und kann als Nächstes wieder einsteigen.
 
 Probiere es auch andersherum, mit B zuerst. Dann brauchst du einen anderen Einstiegspunkt, weil der Breakdown von B früher kommt.
+
+**Song 03 „Ewigkeit“** als Bonus läuft mit 81 BPM in c-Moll und passt nicht zu den beiden anderen Songs. Lade ihn in beide Decks als Kanon und starte B auf Takt 9 von A: Jeder Abschnitt liegt unter dem nächsten.
