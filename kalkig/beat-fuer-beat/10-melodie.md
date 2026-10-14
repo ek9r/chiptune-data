@@ -5,7 +5,7 @@ bpm: 128
 Die **Melodie** ist die Stimme, die du hinterher mitsummst. Sie entsteht aus einem kurzen **Motiv**: Hier sind es lange Töne und kleine Sprünge, das Motiv kehrt in jedem Takt wieder, nur auf anderen Tönen.
 Wiederholung macht eine Melodie merkbar, Veränderung hält sie spannend.
 
-Die Töne der Melodie stammen aus dem jeweiligen Akkord (im ersten Takt E-Moll: E, G, B). So klingt sie wie angegossen. Ein Motiv, das du nach dem ersten Hören behalten kannst, nennt man **Hook**.
+Die Töne der Melodie stammen größtenteils aus dem jeweiligen Akkord (im ersten Takt E-Moll: E, G, B), dazwischen liegen kurze Durchgangstöne. So klingt sie wie angegossen. Ein Motiv, das du nach dem ersten Hören behalten kannst, nennt man **Hook**.
 
 <!-- track: kick -->
 ---

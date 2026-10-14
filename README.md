@@ -64,7 +64,7 @@ gate: 0.5
 
 - Jede Zeile im `grid` ist ein Takt aus 16 Schritten (vier Gruppen zu vier). Ein `.` ist eine Pause, `-` hält den Ton.
 - Instrumente: `square`, `pulse`, `triangle`, `saw`, `sine` und `drums`. Die Drums kennen `k` (Kick), `s` (Snare), `c` (Clap), `h` (Hi-Hat) und `o` (offene Hi-Hat).
-- Haben Spuren unterschiedlich viele Zeilen, wiederholen sie sich. So bleibt ein Song kurz, auch wenn ein Teil länger ist.
+- Alle Spuren eines Songs brauchen gleich viele Zeilen. Eine kürzere Spur wiederholt sich nicht, sondern klingt nur in ihren eigenen Takten.
 - In einer Spur können auch zusätzliche Textinformationen hinterlegt werden, wie hier: 
 
 Wer weitere Beispiele sucht, findet sie z.B: im Album `beat-fuer-beat`:   

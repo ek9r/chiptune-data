@@ -10,7 +10,7 @@ den **Grundton**, und gibt der Folge ihr Fundament. Die Drums haben jetzt vier Z
 
 ### Exkurs: Warum steht hier B, wo ich H gelernt habe?
 
-Im Mittelalter gab es zwischen A und C zwei Varianten desselben Tons: ein tieferes, „weiches" b (*b molle*, rund geschrieben) und ein höheres, „hartes" b (*b durum*, eckig geschrieben).
+Im Mittelalter gab es zwischen A und C zwei Varianten desselben Tons: ein tieferes, „weiches“ b (*b molle*, rund geschrieben) und ein höheres, „hartes“ b (*b durum*, eckig geschrieben).
 In deutschen Handschriften sah das eckige b irgendwann aus wie ein `h`. So wurde im deutschen Sprachraum aus dem hohen Ton das **H**, und das runde **B** blieb für den tieferen Ton.
 
 Im englischen Sprachraum und in fast jeder Musiksoftware ist es anders: Der Ton, den wir H nennen, heißt dort **B**, und das tiefere B schreibt man mit Vorzeichen als `Bb`.
