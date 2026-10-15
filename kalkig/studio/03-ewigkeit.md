@@ -2,6 +2,7 @@
 title: "03: Ewigkeit"
 artist: Kalkie
 bpm: 81
+release: "https://on.soundcloud.com/tpCvmBFt2FwFCdkHC3"
 ---
 Ein ruhiger Bonus-„Song“ zum Atmen, frei nach einer Hommage an einen alten Freund.  
 c-Moll, 81 BPM, 56 Takte. Die Akkorde gehen im Kreis: **Cm, As, Es, B**, jeweils ein Takt.  
