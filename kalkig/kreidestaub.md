@@ -189,7 +189,7 @@ instrument: triangle
 volume: 0.3
 gate: 0.7
 ---
-Die Dreieckswelle spielt den Grundton jedes Akkords (A, F, C, G) im Offbeat, genau zwischen den Bassdrum-Schlägen. So gehen sich Kick und Bass nicht in die Quere.
+Die Dreieckswelle spielt den Grundton jedes Akkords (A, F, C, G) im Offbeat, genau zwischen den Kick-Schlägen. So spielen Kick und Bass nie gleichzeitig.
 
 ```grid
 . . . . | . . . . | . . . . | . . . .
