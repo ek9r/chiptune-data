@@ -13,11 +13,11 @@ release:
     Mashup: "Rk-8rnr*"
 ---
 
-Knappe zehn Minuten, frei aus den Songs des Albums /ˈbiːts/ von den AnonigBits gemischt. Aufgezeichnet beim Mixxx von [Rk-8rnr&#42;](https://8rnr.t1s.ch).
+Knappe zehn Minuten, frei aus den Songs des Albums [/ˈbiːts/](/ab/anonymous-bts/) von den AnonigBits gemischt. Aufgezeichnet beim Mixxx von [Rk-8rnr&#42;](https://8rnr.t1s.ch).
 
 Diese Veröffentlichung gibt es auch unter [SoundCloud](https://soundcloud.com/archiviert/vernebelter-heimweg).
 Die Version hier ist eine konvertierte Spiegeldatei zur freien Verfügung:
 
-Download: [AAC](https://8rnr.t1s.ch/Rk/Mixxx/Vernebelter-Heimweg_Mixxx.m4a) (CC BY-SA 3.0, bitte möglichst mit Quellenangabe weiterbenutzen)
+[AAC](https://8rnr.t1s.ch/Rk/Mixxx/Vernebelter-Heimweg_Mixxx.m4a) (CC BY-SA 3.0)
 
 Keep the vibe alive!
