@@ -1,0 +1,76 @@
+// Stand: a94662cc
+setcps(81/60/4)
+
+const P = ['c4 d#4 g4 d#4', 'g#3 c4 d#4 c4', 'd#4 g4 a#4 g4', 'a#3 d4 f4 d4']
+const Q = ['f3 g#3 c4 g#3', P[1], P[0], P[3]]
+const langsam = b => '[' + b.replaceAll(' ', ' ~ ') + ' ~]*2', schnell = b => '[' + b + ']*4'
+const arp = [...P, ...P, ...P, ...P, ...P, ...Q, ...P, ...P].map(langsam)
+  .concat([...P, ...Q].map(schnell), [...P, ...P, ...P, ...P].map(langsam))
+
+const A = note(`
+g4@6 f4@2 d#4@7 ~
+c5@6 a#4@2 g#4@7 ~
+g4@6 g4@2 a#4@4 g4@3 ~
+f4@6 d4@2 f4@7 ~
+g4@6 f4@2 d#4@4 d4@2 c4 ~
+c5@6 d#5@2 c5@6 g#4 ~
+a#4@6 g4@2 d#4@7 ~
+d4@6 f4@2 d4@4 c4@4`)
+const B = note(`
+c5@4 d#5@4 g5@4 f5@2 d#5@2
+c5@4 d#5@4 g#5@4 g5@2 f5@2
+g5@4 g5@4 f5@2 d#5@2 d5@4
+d5@4 f5@4 d5@4 c5@2 a#4@2
+g#4@4 c5@4 f5@4 d#5@2 c5@2
+c5@4 d#5@4 c5@4 g#4@4
+g4@4 c5@4 d#5@4 d5@2 c5@2
+d5@4 f5@4 d5@8`)
+const C = note(`
+d#5@6 d5@2 c5@7 ~
+g#4@6 c5@2 d#5@7 ~
+g5@6 f5@2 d#5@6 d5 ~
+d5@6 f5@2 d5@7 ~
+d#5@6 d5@2 c5@4 d5@2 d#5 ~
+c5@6 g#4@2 c5@7 ~
+g4@6 a#4@2 d#5@7 ~
+f5@6 d5@2 a#4@8`)
+
+const R = 'c2 g#1 d#2 a#1', F = 'f2 g#1 c2 a#1'
+const fill = s("bd ~ hh ~ sd ~ hh ~ bd ~ sd ~ sd!4")
+const g1 = s("[bd ~ hh ~@3 hh ~]*2"), g2 = s("[bd ~ hh ~ sd ~ hh ~]*2"), g3 = s("bd ~ hh ~@3 hh ~ bd ~ hh ~ sd ~ hh ~")
+
+stack(
+  arrange(
+    [4, "~"],
+    [12, note("<c2 g#1 d#2 a#1>")],
+    [24, note(mini('<' + [R, F, R, R, R, F].join(' ') + '>')).struct("x@8 x@6 x@2")],
+    [12, note("<c2 g#1 d#2 a#1>")],
+    [4, "~"]
+  ).s("triangle").clip(0.95).gain(1),
+  note(mini(arp.join(' '))).slow(56).s("square").clip(0.6).gain(0.3),
+  arrange(
+    [8, "~"], [8, A.slow(8)], [8, B.slow(8)], [8, C.slow(8)], [8, B.slow(8)], [8, A.slow(8)],
+    [2, A.zoom(0, 1/4).slow(2)], [2, A.zoom(3/4, 1).slow(2)], [4, "~"]
+  ).s("triangle").clip(0.97).gain(1),
+  note(`~@384
+d4@8 d#4@6 d4@2
+c4@7 ~ g#3@6 c4@2
+d#4@7 ~ g4@6 f4@2
+d#4@6 d4 ~ d4@6 f4@2
+d4@7 ~ d#4@6 d4@2
+c4@4 d4@2 d#4 ~ c4@6 g#3@2
+c4@7 ~ g3@6 a#3@2
+d#4@7 ~ f4@6 d4@2
+a#3@8 c4@4 d#4@4
+g4@4 f4@2 d#4@2 c4@4 d#4@4
+g#4@4 g4@2 f4@2 g4@4 g4@4
+f4@2 d#4@2 d4@4 d4@4 f4@4
+d4@4 c4@2 a#3@2 g#3@4 c4@4
+f4@4 d#4@2 c4@2 c4@4 d#4@4
+c4@4 g#3@4 g3@4 c4@4
+d#4@4 d4@2 c4@2 d4@4 f4@4
+~@256`).slow(56).s("sine").clip(0.97).gain(0.5),
+  arrange(
+    [8, "~"], [7, g1], [1, fill], [8, g2], [7, g3], [1, fill], [8, g2], [16, "~"]
+  ).gain(0.55)
+)
