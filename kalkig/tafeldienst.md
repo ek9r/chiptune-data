@@ -1,8 +1,10 @@
 ---
+group: Schulkreide
 title: "Tafeldienst"
 artist: Kalkie
 bpm: 130
 tags: [lernen]
+hq: https://kalkie.de/get/2020/2026/tafeldienst.mp3
 ---
 Acid ohne 303: ein Sägezahn mit kurzem Gate, in Sechzehnteln durch den Hof. Gleiten kann das Format nicht, also halten wir einzelne Töne länger und springe in die Oktave. Alles bleibt in A-Moll.
 
