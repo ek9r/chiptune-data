@@ -2,6 +2,7 @@
 title: Münzeinwurf
 artist: Anonymous
 bpm: 148
+hq: https://kalkig.de/token
 ---
 Ein Spielautomat am Heimarbeitsplatz: Groschen rein, Musik an.
 
